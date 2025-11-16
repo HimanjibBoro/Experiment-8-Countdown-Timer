@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+    box-shadow: 0 0 10px black;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#timer {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+}
